@@ -53,7 +53,7 @@ for (let i=0; i<priceInputvalue.length; i++){
 
    });
 
-   //add event listeners to range input elements
+   //add event listeners to range input elements.
 
    for(let i = 0; i<rangeInputvalue.length; i++){
     rangeInputvalue[1].addEventListener("input", e =>{
